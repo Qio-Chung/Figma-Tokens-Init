@@ -1,0 +1,43 @@
+{
+    "colours": {
+      "blue": {
+        "blue-50": "#eeeeffff",
+        "blue-100": "#e0e1ffff",
+        "blue-200": "#c7c8feff",
+        "blue-300": "#a5a7fcff",
+        "blue-400": "#8184f8ff",
+        "blue-500": "#6366f1ff",
+        "blue-600": "#4649e5ff",
+        "blue-700": "#383bcaff",
+        "blue-800": "#3032a3ff",
+        "blue-900": "#2e3081ff",
+        "blue-950": "#1b1c4bff"
+      },
+      "grey": {
+        "grey-50": "#f7f8f8ff",
+        "grey-100": "#edeef1ff",
+        "grey-200": "#d8dbdfff",
+        "grey-300": "#b6bac3ff",
+        "grey-400": "#8e95a2ff",
+        "grey-500": "#6b7280ff",
+        "grey-600": "#5b616eff",
+        "grey-700": "#4a4e5aff",
+        "grey-800": "#40444cff",
+        "grey-900": "#383a42ff",
+        "grey-950": "#25272cff"
+      },
+      "base": {
+        "white": "#ffffffff",
+        "black": "#1e1f20ff"
+      }
+    },
+    "spacing": {
+      "0": "0",
+      "1": "4px",
+      "2": "8px",
+      "3": "12px",
+      "4": "16px",
+      "5": "20px",
+      "6": "24px"
+    }
+  }

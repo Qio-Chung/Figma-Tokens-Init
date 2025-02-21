@@ -1,0 +1,21 @@
+{
+    "colour": {
+      "surface-primary": "#ffffffff",
+      "button-background-primary": "#4649e5ff",
+      "button-label-primary": "#ffffffff",
+      "text-primary": "#25272cff",
+      "test-secondary": "#6b7280ff"
+    },
+    "spacingSystem": {
+      "spacing-none": "0",
+      "spacing-xxs": "4px",
+      "spacing-xs": "8px",
+      "spacing-sm": "12px",
+      "spacing-md": "16px",
+      "spacing-lg": "20px",
+      "spacing-xl": "24px",
+      "radius-sm": "8px",
+      "radius-md": "12px",
+      "radius-lg": "16px"
+    }
+  }
