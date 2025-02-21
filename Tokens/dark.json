@@ -1,0 +1,66 @@
+{
+    "Colour": {
+      "surface-primary": {
+        "value": "{Colours.Base.Black}",
+        "type": "color"
+      },
+      "button-background-primary": {
+        "value": "{Colours.Blue.Blue-300}",
+        "type": "color"
+      },
+      "button-label-primary": {
+        "value": "{Colours.Base.Black}",
+        "type": "color"
+      },
+      "text-primary": {
+        "value": "{Colours.Grey.Grey-50}",
+        "type": "color"
+      },
+      "test-secondary": {
+        "value": "{Colours.Grey.Grey-500}",
+        "type": "color"
+      }
+    },
+    "Spacing System": {
+      "spacing-none": {
+        "value": "{Spacing.0}",
+        "type": "dimension"
+      },
+      "spacing-xxs": {
+        "value": "{Spacing.1}",
+        "type": "dimension"
+      },
+      "spacing-xs": {
+        "value": "{Spacing.2}",
+        "type": "dimension"
+      },
+      "spacing-sm": {
+        "value": "{Spacing.3}",
+        "type": "dimension"
+      },
+      "spacing-md": {
+        "value": "{Spacing.4}",
+        "type": "dimension"
+      },
+      "spacing-lg": {
+        "value": "{Spacing.5}",
+        "type": "dimension"
+      },
+      "spacing-xl": {
+        "value": "{Spacing.6}",
+        "type": "dimension"
+      },
+      "radius-sm": {
+        "value": "{Spacing.2}",
+        "type": "dimension"
+      },
+      "radius-md": {
+        "value": "{Spacing.3}",
+        "type": "dimension"
+      },
+      "radius-lg": {
+        "value": "{Spacing.4}",
+        "type": "dimension"
+      }
+    }
+  }
