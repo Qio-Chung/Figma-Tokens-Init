@@ -1,0 +1,17 @@
+:root {
+    --colour-surface-primary: #1e1f20ff;
+    --colour-button-background-primary: #a5a7fcff;
+    --colour-button-label-primary: #1e1f20ff;
+    --colour-text-primary: #f7f8f8ff;
+    --colour-test-secondary: #6b7280ff;
+    --spacingSystem-spacing-none: 0;
+    --spacingSystem-spacing-xxs: 4px;
+    --spacingSystem-spacing-xs: 8px;
+    --spacingSystem-spacing-sm: 12px;
+    --spacingSystem-spacing-md: 16px;
+    --spacingSystem-spacing-lg: 20px;
+    --spacingSystem-spacing-xl: 24px;
+    --spacingSystem-radius-sm: 8px;
+    --spacingSystem-radius-md: 12px;
+    --spacingSystem-radius-lg: 16px;
+}
